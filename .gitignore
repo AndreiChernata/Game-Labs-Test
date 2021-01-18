@@ -1,0 +1,10 @@
+Game-Labs-Test/Library/
+Game-Labs-Test/obj/
+Game-Labs-Test/Flag.sln
+Game-Labs-Test/Assembly-CSharp.csproj
+Game-Labs-Test/Assembly-CSharp-Editor.csproj
+Game-Labs-Test/.vs/Flag/v16/Server/sqlite3/storage.ide
+Game-Labs-Test/.vs/Flag/v16/Server/sqlite3/db.lock
+Game-Labs-Test/.vs/Flag/v16/Browse.VC.db
+Game-Labs-Test/Logs/Packages-Update.log
+Game-Labs-Test/.vs/Flag/v16/.suo

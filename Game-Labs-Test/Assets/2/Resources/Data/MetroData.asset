@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7c790f671cd0a5479c9586f84cc9376, type: 3}
+  m_Name: MetroData
+  m_EditorClassIdentifier: 
+  stations:
+  - stationId: 0
+    stationName: A
+    x: -3
+    y: 3
+    branchId: 0
+    connectionStation: 2
+  - stationId: 1
+    stationName: B
+    x: -2
+    y: 2
+    branchId: 0
+    connectionStation: 133
+  - stationId: 2
+    stationName: C
+    x: -1
+    y: 1
+    branchId: 0
+    connectionStation: 268
+  - stationId: 3
+    stationName: D
+    x: 0
+    y: 0
+    branchId: 0
+    connectionStation: 2324
+  - stationId: 4
+    stationName: E
+    x: 1
+    y: 0
+    branchId: 0
+    connectionStation: 4392
+  - stationId: 5
+    stationName: F
+    x: 2
+    y: 0
+    branchId: 0
+    connectionStation: 336
+  - stationId: 6
+    stationName: G
+    x: 2
+    y: -1
+    branchId: 3
+    connectionStation: 32
+  - stationId: 7
+    stationName: H
+    x: 0
+    y: 2
+    branchId: 3
+    connectionStation: 258
+  - stationId: 8
+    stationName: J
+    x: 1
+    y: 1
+    branchId: 2
+    connectionStation: 700
+  - stationId: 9
+    stationName: O
+    x: 2
+    y: 2
+    branchId: 2
+    connectionStation: 256
+  - stationId: 10
+    stationName: K
+    x: -1
+    y: 0
+    branchId: 1
+    connectionStation: 2052
+  - stationId: 11
+    stationName: L
+    x: -1
+    y: -1
+    branchId: 2
+    connectionStation: 13320
+  - stationId: 12
+    stationName: M
+    x: 0
+    y: -1
+    branchId: 1
+    connectionStation: 2064
+  - stationId: 13
+    stationName: N
+    x: -2
+    y: -2
+    branchId: 2
+    connectionStation: 2048
+  branches:
+  - branchId: 0
+    color: {r: 1, g: 0, b: 0.17090273, a: 1}
+  - branchId: 1
+    color: {r: 0, g: 1, b: 0.14795828, a: 1}
+  - branchId: 2
+    color: {r: 0.004811287, g: 0, b: 1, a: 1}
+  - branchId: 3
+    color: {r: 0, g: 0, b: 0, a: 1}
